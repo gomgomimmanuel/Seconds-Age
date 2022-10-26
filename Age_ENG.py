@@ -1,5 +1,6 @@
 print ("Hello!".title())
 print ("What is your name ?".title())
 name = input()
-print ("Wow, that's very nice name! ".title() + name.())
+print ("Wow, that's very nice name! ".title() + name.upper() )
+print ("and its a pleasure to meet you! ".title() + name() )
 print ("I am going to ask you some question.".title())
